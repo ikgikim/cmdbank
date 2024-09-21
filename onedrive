@@ -1,0 +1,4 @@
+onedrive 삭제하기
+
+64비트/혹시 32비트는 System32로 바꿀것
+%Systemroot%\SysWOW64\onedrivesetup.exe /uninstall
