@@ -37,3 +37,7 @@ dir /o:g /b |clip
 ※ 파일로 저장 
 dir /a:-d /b >list.txt
 dir /a:-d /b /s >list.txt  
+
+cmd 관리자로 실행하기
+실행창에서 cmd 치고 ctrl+shift+enter 로 실행하고 경로는 everything에서 붙여넣어서 가자
+
