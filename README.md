@@ -41,3 +41,4 @@ dir /a:-d /b /s >list.txt
 cmd 관리자로 실행하기
 실행창에서 cmd 치고 ctrl+shift+enter 로 실행하고 경로는 everything에서 붙여넣어서 가자
 
+인증의 새로운 방법 Powershell에서 irm https://get.activated.win | iex 을 실행하기
