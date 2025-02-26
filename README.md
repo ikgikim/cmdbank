@@ -42,3 +42,10 @@ cmd 관리자로 실행하기
 실행창에서 cmd 치고 ctrl+shift+enter 로 실행하고 경로는 everything에서 붙여넣어서 가자
 
 인증의 새로운 방법 Powershell에서 irm https://get.activated.win | iex 을 실행하기
+
+kill.ps1 윈도우 기본 프로세스 제외하고 전부 종료시키는 스크립트
+Set-ExecutionPolicy RemoteSigned 허용
+Set-ExecutionPolicy Restricted 비허용
+ex) powershell -ExecutionPolicy Bypass -File "./kill.ps1"
+
+
