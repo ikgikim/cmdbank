@@ -48,4 +48,4 @@ Set-ExecutionPolicy RemoteSigned 허용
 Set-ExecutionPolicy Restricted 비허용
 ex) powershell -ExecutionPolicy Bypass -File "./kill.ps1"
 
-
+https://www.dropbox.com/scl/fi/13htlmc8oai6otjvsmrwo/iks.keys >이거 smplayer 키세팅
