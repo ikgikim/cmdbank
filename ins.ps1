@@ -14,7 +14,8 @@ $programs = @(
     "Telegram.TelegramDesktop",
     "Kakao.KakaoTalk",
     "Valve.Steam",
-    "EpicGames.EpicGamesLauncher"
+    "EpicGames.EpicGamesLauncher",
+    "Obsidian.Obsidian"
 )
 
 foreach ($program in $programs) {
